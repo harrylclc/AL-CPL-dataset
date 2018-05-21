@@ -22,7 +22,7 @@ ID | Feature
 16 | \|In_A\cap In_B\|/\|In_B\|
 17 | wiki2vec sim
 18 | BoW sim (1st par)
-19 | docvec sim (1st par)',
+19 | docvec sim (1st par)
 20 | title jaccard
 21 |PMI
 22 | LDA entropy A
@@ -30,7 +30,7 @@ ID | Feature
 24 | LDA cross entropy A;B
 25 | LDA cross entropy B;A
 26 | # words A
-27 | # words B'
+27 | # words B
 28 | # B appears in A
 29 | # A appears in B
 30 | # B appears in A (norm)
