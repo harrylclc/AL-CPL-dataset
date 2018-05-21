@@ -23,6 +23,9 @@ The folder "data" contains data for the active learning experiments. All files a
 ### Data Visualization
 The folder "visualization" contains the data visualization of the concept prerequisite graph used in the paper. Note that only concept pairs that are in the dataset are visualized and current dataset does not include all possible concept pairs.
 
+### Feature Files
+The folder "features" includes the raw feature files used for active learning classification experiments. All files are in SVM light format.
+
 ### References
 Please consider citing the following papers if you use this data.
 ```
@@ -51,4 +54,7 @@ Wiki concept map dataset
   organization={ACM}
 }
 ```
+## License
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
+![Alt](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
