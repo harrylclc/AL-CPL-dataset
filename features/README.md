@@ -18,8 +18,8 @@ ID | Feature
 12 | B in A's first sent
 13 | B in A's title
 14 | NGD
-15 | $|In_A\cap In_B|/|In_A|$
-16 | $|In_A\cap In_B|/|In_B|$
+15 | \|In_A\cap In_B\|/\|In_A\|
+16 | \|In_A\cap In_B\|/\|In_B\|
 17 | wiki2vec sim
 18 | BoW sim (1st par)
 19 | docvec sim (1st par)',
